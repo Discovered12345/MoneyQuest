@@ -26,7 +26,8 @@ Built with accessibility and simplicity in mind, MoneyQuest is fun and beginner-
 
 **Right Question**
 
-![Uploading Screenshot 2025-06-25 165656.png…]()
+![Screenshot 2025-06-25 165656](https://github.com/user-attachments/assets/89c72bfe-dfc9-42a8-8119-c917289f04ca)
+
 
 **Lesson End**
 
